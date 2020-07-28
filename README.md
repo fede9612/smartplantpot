@@ -1,1 +1,1 @@
-# smartplantpot
+# smart plant pot
